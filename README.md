@@ -8,6 +8,7 @@ Implementando Design Pattern Observer para manipular uma String.
 
 ### 🚀 Execução
 
-- clonar ou baixar o repotório, utilizando o link https://github.com/Gabriel-GCS/C214-Observer
+- clonar ou baixar o repositório, utilizando o link https://github.com/Gabriel-GCS/C214-Observer
 - Instalar as dependencias do pom.xlm
 - executar o arquivo Main.java
+
