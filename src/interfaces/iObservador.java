@@ -1,4 +1,5 @@
 package interfaces;
+
 import impl.Observavel;
 
 public interface iObservador {

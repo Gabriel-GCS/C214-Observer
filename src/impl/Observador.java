@@ -1,4 +1,5 @@
 package impl;
+
 import interfaces.iObservador;
 
 public class Observador implements iObservador {
